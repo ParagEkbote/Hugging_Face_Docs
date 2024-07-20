@@ -6,7 +6,7 @@ The open-source libraries by Hugging Face can be a powerful tool for several NLP
 
 ![images_modern Huggies_Transformer Agent Huggy](https://github.com/user-attachments/assets/dd2b9bc0-12b5-4caf-b7b7-c6afdd8f46d2)
 
-Hugging_Face_Docs aims to simplify this process by providing:
+## Hugging_Face_Docs aims to simplify this process by providing:
 
 1) Detailed explanations of major attributes.
 2) Scripts that can be used in your daily usage.
