@@ -4,13 +4,16 @@
 
 The open-source libraries by Hugging Face can be a powerful tool for several NLP tasks. However, due to its extensive functionality, it can be challenging for newcomers to grasp all its features.
 
+![images_modern Huggies_Transformer Agent Huggy](https://github.com/user-attachments/assets/dd2b9bc0-12b5-4caf-b7b7-c6afdd8f46d2)
+
 Hugging_Face_Docs aims to simplify this process by providing:
 
 1) Detailed explanations of major attributes.
-2) Scripts that can be used in your daily work.
+2) Scripts that can be used in your daily usage.
+
+You can view the scripts within the 'Transformer project' folder.
 
 Currently, you can explore the documentation of the transformers library, additional support coming soon!
-
 
 Maintained using Lightning AI:
 
