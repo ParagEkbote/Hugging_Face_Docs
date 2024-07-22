@@ -17,6 +17,8 @@ The open-source libraries by Hugging Face can be a powerful tool for several NLP
 
 Currently, you can view the documentation of the transformers library, additional support coming soon!
 
+If you find the work useful, please star the repositry.
+
 Maintained using Lightning AI:
 
 <a target="_blank" href="https://lightning.ai/23150020dypsst/studios/transformers-docproject">
