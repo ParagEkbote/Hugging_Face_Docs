@@ -13,7 +13,7 @@ The open-source libraries by Hugging Face can be a powerful tool for several NLP
 1) Detailed explanations of major attributes.
 2) Scripts that can be used in your daily usage.
 
-### You can view the scripts within the 'Transformer project' folder.
+### You can view the scripts within the 'Transformers' folder.
 
 Currently, you can view the documentation of the transformers library, additional support coming soon!
 
